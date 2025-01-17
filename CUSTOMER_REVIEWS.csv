@@ -1,0 +1,101 @@
+Review ID,Customer Name,Purchased Item,Review,Rating
+1,SHRIBAS KUNDU,Smart Bulb,Excellent quality,5
+2,SHUBHAM KUMAR,Electric Toothbrush,Would not buy again,0
+3,SABYASACHI BOSE,Electric Shaver,Defective item,4
+4,DEBANJAN DE,Headphones,Excellent,5
+5,AKASH KUMAR YADAV,Vacuum Cleaner,As described,5
+6,KRISHNA KANT CHOUHAN,Washing Machine,Overall good,2
+7,SURESH PRASAD,Stand Mixer,Very disappointed,1
+8,ARPITA CHATTERJEE,Electric Fan,As expected,4
+9,PROGYA FOUZDER,Cordless Drill,Great service,3
+10,GOURAV KUMAR,Fitness Tracker,Recommend,5
+11,SHEPHALI ANAND,Digital Camera,Overall good,1
+12,ABHIRAM MAJI,Action Camera,Excellent,4
+13,SHRIPARNA BHATTACHARJEE,Slow Cooker,Good value,3
+14,SUMIT KUMAR SHAW,Tablet,Late delivery,2
+15,RIMA KARMAKAR,Projector,Faster shipping,3
+16,BISHAL DAS,Stand Mixer,Service okay,1
+17,SHIVAM KUMAR,Cordless Drill,Damaged,0
+18,ANKON SARKAR,Electric Cooker,Excellent delivery,3
+19,BISHAL DAS,Fitness Tracker,Very disappointed,3
+20,ANIMESH SARKAR,Slow Cooker,Met expectations,2
+21,AKASH SINHA,Air Conditioner,Could be better,2
+22,AKASH ROY,Coffee Maker,Arrived late,5
+23,SHUBHAM KUMAR,Rice Cooker,Defective item,4
+24,TAMAJIT HAZRA,Smart Home Device,Great service,3
+25,SHUBHOJEET MONDAL,Tablet,Quality below expectations,4
+26,VIVEK JHA,Electric Cooker,Defective item,4
+27,RIMA KARMAKAR,Sewing Machine,Highly satisfied,4
+28,JISHANT KUMAR,Sewing Machine,Below average service,2
+29,SNEHA BANNERJEE,Air Purifier,Delayed shipping,1
+30,SUBHAJIT SEN,Refrigerator,Very good,2
+31,ABHISHEK DAS,Electric Blanket,Very disappointed,3
+32,SUBHADIP CHATTARAJ,Projector,Excellent,2
+33,PRIYANKA MUKHERJEE,Cordless Drill,Great value,5
+34,ANUSUYA CHATTERJEE,Electric Kettle,Not worth the hype,2
+35,ABHAY SUTRADHAR,Laptop,Good product,1
+36,AVINASH MONDAL,Electric Shaver,Not worth the hype,1
+37,ABHISHEK DAS,Induction Cooktop,Great quality,5
+38,RIYANSH RANJAN JHA,Vacuum Cleaner,Below average,2
+39,ANKON SARKAR,Rice Cooker,Smooth shipping,2
+40,DEBANJAN DE,Slow Cooker,Would not buy again,0
+41,TINA ROY,Dishwasher,Satisfied with delivery,2
+42,UDIT DAS,Vacuum Cleaner,Damaged,0
+43,BEETAN MUKHERJEE,Smartwatch,Would buy again,4
+44,ROUNAK ACHARYYA,Smart Bulb,Superb quality,3
+45,KUNAL KOIRI,Toaster,Below average,3
+46,SUBHAJIT SEN,Dishwasher,Overall good,3
+47,ABHAY SUTRADHAR,Fitness Tracker,Excellent,5
+48,SHUBHOJEET MONDAL,Camera,Satisfied with delivery,2
+49,NEHA MAHATO,Wireless Charger,Great value,5
+50,ABHISHEK RANJAN SINHA,Slow Cooker,As expected,4
+51,SUBHAJIT SEN,Coffee Maker,Damaged,1
+52,KOUSTAV DEY,Electric Shaver,Prompt support,5
+53,AKASH MAJI,Gaming Console,Would not buy again,1
+54,PRERANA KUMARI SINGH,Laptop,Very good,3
+55,DISHA GHOSH,Electric Shaver,Superb quality,1
+56,SHEPHALI ANAND,Slow Cooker,Exceptional quality,1
+57,SREEJITA DATTA,Washing Machine,As promised,3
+58,ALTAMASH AHMED,Laptop,Smooth shipping,5
+59,RISHAV SARKAR,Washing Machine,Very disappointed,5
+60,AKASH MAJI,Deep Fryer,Happy purchase,3
+61,PARAG KAR,Tablet,Satisfied with delivery,3
+62,YASH PRATEEK,Water Purifier,Not what I wanted,3
+63,ABHAY SUTRADHAR,Smart Home Device,Great service,5
+64,ABIR MAJI,Steam Iron,Prompt support,3
+65,ANUSUYA CHATTERJEE,Deep Fryer,Okay product,2
+66,NUPUR DAS,Blender,Not satisfied,2
+67,NEHA MAHATO,Electric Kettle,Satisfactory,5
+68,SALONI KUMARI SINGH,Oven,Faster shipping,1
+69,RAJ BAIDYA,Electric Cooker,Very impressed,4
+70,NUPUR DAS,Electric Grill,Fast shipping,4
+71,DISHA GHOSH,Printer,On time delivery,3
+72,NUPUR DAS,Headphones,Met expectations,3
+73,POOJA YADAV,Electric Blanket,Very impressed,4
+74,ARIJIT KONAR,Drone,On time delivery,1
+75,ABHIRAM MAJI,Projector,Not satisfied,3
+76,SUBHASHIS DEY,Electric Kettle,Not happy,3
+77,NARAYAN MANDAL,Mouse,Exceptional quality,1
+78,VIVEK JHA,Induction Cooktop,Okay product,3
+79,BAPI KUNDU,Dishwasher,Prompt support,2
+80,BEETAN MUKHERJEE,Food Processor,Nice product,4
+81,SUBHADIP CHATTARAJ,Digital Camera,Nice product,1
+82,BISHAL DEY,Digital Camera,Met expectations,1
+83,SHEPHALI ANAND,Digital Camera,Late delivery,5
+84,SWEETY SINGH,Camera,Not worth the hype,2
+85,SREEJITA DATTA,Vacuum Cleaner,Nice product,4
+86,DEBANJAN DE,Electric Toothbrush,Arrived late,3
+87,SHANIYA JAWED,Sewing Machine,Quick delivery,3
+88,YASH PRATEEK,Oven,Just okay,2
+89,SIDDHARTH SINGH,Electric Kettle,Very disappointed,3
+90,GOURAV KUMAR,Electric Toothbrush,Smooth shipping,3
+91,NUPUR DAS,Tablet,Damaged,3
+92,SOURAV CHAKRABORTY,External Hard Drive,As described,3
+93,GOURAB  DEY,Printer,Helpful service,5
+94,HRITHIK DEY,Home Assistant,Smooth shipping,4
+95,SABYASACHI BOSE,Electric Fan,Good experience,3
+96,ABHAY SUTRADHAR,Electric Fan,Not up to the mark,1
+97,KRISHNA KANT CHOUHAN,Headphones,Late delivery,2
+98,SALONI KUMARI SINGH,Camera,Superb support,3
+99,KISHANU SARKAR,Fitness Tracker,Not happy,0
+100,RAJNI KUMBHAKAR,Air Conditioner,Arrived late,0
